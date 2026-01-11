@@ -1,0 +1,2 @@
+# M.Sc.-Thesis-Numerical-Modeling-and-Analysis-of-FeS2-based-Solar-Cell-Employing-CuBi2O4-as-BSF-Layer
+In this study, I introduced a novel thin-film solar cell design using FeS2, CuBi2O4 and GaAs which achieved a power conversion efficiency (PCE) of 33.29% with 73.49% improvement over traditional FeS2 cells. The dual-heterojunction design incorporated with CuBi2O4 as a second absorber layer enhances efficiency through superior band alignment. It demonstrated the potential of multi-absorber architectures for advancing photovoltaic technology and sustainable energy solutions.
